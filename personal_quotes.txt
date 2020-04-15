@@ -3,3 +3,9 @@ New content...
 Changes to test merge..
 
 Color is: Blue
+
+Squash commit 1
+
+Squash commit 2
+
+Squash commit 3
